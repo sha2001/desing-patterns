@@ -1,4 +1,4 @@
-package com.example.designpattern.abstractfactory;
+package com.example.designpattern.creational.abstractfactory;
 
 import java.util.Arrays;
 

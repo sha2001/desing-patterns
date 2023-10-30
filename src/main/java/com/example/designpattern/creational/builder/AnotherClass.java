@@ -1,4 +1,4 @@
-package com.example.designpattern.builder;
+package com.example.designpattern.creational.builder;
 
 public class AnotherClass {
     private final String anotherString;

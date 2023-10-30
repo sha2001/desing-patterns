@@ -1,4 +1,4 @@
-package com.example.designpattern.abstractfactory;
+package com.example.designpattern.creational.abstractfactory;
 
 public class MacInputText implements InputText{
 
