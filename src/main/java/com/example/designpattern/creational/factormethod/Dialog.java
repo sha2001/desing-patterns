@@ -1,4 +1,4 @@
-package com.example.designpattern.creational.methodfactory;
+package com.example.designpattern.creational.factormethod;
 
 public abstract class Dialog {
     public void renderWindow() {

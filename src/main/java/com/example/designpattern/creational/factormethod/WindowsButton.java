@@ -1,4 +1,4 @@
-package com.example.designpattern.creational.methodfactory;
+package com.example.designpattern.creational.factormethod;
 
 import lombok.extern.slf4j.Slf4j;
 
