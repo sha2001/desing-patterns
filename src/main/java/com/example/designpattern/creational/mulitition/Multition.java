@@ -2,11 +2,12 @@ package com.example.designpattern.creational.mulitition;
 
 import lombok.Synchronized;
 
+import java.util.EnumMap;
 import java.util.HashMap;
 import java.util.Map;
 
 public class Multition {
-    private static final Map<MultitionType, Multition> instances = new HashMap<>();
+    private static final Map<MultitionType, Multition> instances = new EnumMap<>(MultitionType.class);
 
     private MultitionType type;
 
